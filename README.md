@@ -1,4 +1,4 @@
-# Mern-Stack-Crud-App
+# MERN CRUD MONGO
 
 Simple MERN CRUD example
 
